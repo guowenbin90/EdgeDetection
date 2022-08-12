@@ -24,6 +24,22 @@ https://scikit-image.org/docs/stable/auto_examples/
 - Local Histogram Equalization
 - 3D adaptive histogram equalization
 
+## Edges and lines
+- Contour finding
+- Convex Hull
+- Canny edge detector
+- Ridge operators
+- Marching Cubes
+- Active Contour Model
+- Shapes
+- Random Shapes
+- Approximate and subdivide polygons
+- Straight line Hough transform
+- Circular and Elliptical Hough Transforms
+- Skeletonize
+- Edge operators
+
+
 # Contour Detection using OpenCV
 https://learnopencv.com/contour-detection-using-opencv-python-c/
 Using contour detection, we can detect the borders of objects, and localize them easily in an image. It is often the first step for many interesting applications, such as image-foreground extraction, simple-image segmentation, detection and recognition. 
