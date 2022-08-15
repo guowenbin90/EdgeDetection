@@ -39,6 +39,19 @@ https://scikit-image.org/docs/stable/auto_examples/
 - Skeletonize
 - Edge operators
 
+## Geometrical transformations and registration
+- Swirl
+- Build image pyramids
+- Interpolation: Edge Modes
+- Rescale, resize, and downscale
+- Piecewise Affine Transformation
+- Using geometric transformations
+- Structural similarity index
+- Types of homographies
+- Fundamental matrix estimation
+- Robust line model estimation using RANSAC
+- Radon transform
+- Robust matching using RANSAC
 
 # Contour Detection using OpenCV
 https://learnopencv.com/contour-detection-using-opencv-python-c/
