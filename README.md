@@ -61,6 +61,25 @@ https://scikit-image.org/docs/stable/auto_examples/
 - Using Polar and Log-Polar Transformations for Registration
 
 ## Filtering and restoration
+- Removing small objects in grayscale images with a top hat filter
+- Hysteresis thresholding
+- Image Deconvolution
+- Using window functions with images
+- Unsharp masking
+- Mean filters
+- Image Deconvolution
+- Estimate strength of blur
+- Entropy
+- Calibrating Denoisers Using J-Invariance
+- Inpainting
+- Band-pass filtering by Difference of Gaussians
+- Denoising a picture
+- Shift-invariant wavelet denoising
+- Phase Unwrapping
+- Non-local means denoising for preserving textures
+- Attribute operators
+- Wavelet denoising
+- Full tutorial on calibrating Denoisers Using J-Invariance
 
 # Contour Detection using OpenCV
 https://learnopencv.com/contour-detection-using-opencv-python-c/
