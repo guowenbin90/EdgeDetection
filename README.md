@@ -81,6 +81,26 @@ https://scikit-image.org/docs/stable/auto_examples/
 - Wavelet denoising
 - Full tutorial on calibrating Denoisers Using J-Invariance
 
+## Detection of features and objectsDense 
+- Dense DAISY feature description
+- Histogram of Oriented Gradients
+- Template Matching
+- Filling holes and finding peaks
+- Corner detection
+- CENSURE feature detector
+- Multi-Block Local Binary Pattern for texture classification
+- Haar-like feature descriptor
+- Blob Detection
+- ORB feature detector and binary descriptor
+- Gabors / Primary Visual Cortex “Simple Cells” from an Image
+- BRIEF binary descriptor
+- SIFT feature detector and descriptor extractor
+- GLCM Texture Features
+- Shape Index
+- Sliding window histogram
+- Gabor filter banks for texture classification
+- Local Binary Pattern for texture classification
+
 # Contour Detection using OpenCV
-https://learnopencv.com/contour-detection-using-opencv-python-c/
+https://learnopencv.com/contour-detection-using-opencv-python-c/  
 Using contour detection, we can detect the borders of objects, and localize them easily in an image. It is often the first step for many interesting applications, such as image-foreground extraction, simple-image segmentation, detection and recognition. 
