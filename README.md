@@ -101,6 +101,40 @@ https://scikit-image.org/docs/stable/auto_examples/
 - Gabor filter banks for texture classification
 - Local Binary Pattern for texture classification
 
+## Segmentation of objects
+- Region Boundary based RAGs
+- RAG Thresholding
+- Normalized Cut
+- Find Regular Segments Using Compact Watershed
+- Thresholding
+- Drawing Region Adjacency Graphs (RAGs)
+- Chan-Vese Segmentation
+- Finding local maxima
+- Niblack and Sauvola Thresholding
+- Multi-Otsu Thresholding
+- Expand segmentation labels without overlap
+- Apply maskSLIC vs SLIC
+- Random walker segmentation
+- Watershed segmentation
+- Label image regions
+- Markers for watershed transform
+- Comparison of segmentation and superpixel algorithms
+- Find the intersection of two segmentations
+- Region Adjacency Graphs
+- Different perimeters
+- RAG Merging
+- Hierarchical Merging of Region Boundary RAGs
+- Extrema
+- Explore and visualize region properties with pandas
+- Hausdorff Distance
+- Measure region properties
+- Trainable segmentation using local features and random forests
+- Morphological Snakes
+- Flood Fill
+- Euler number
+- Evaluating segmentation metrics
+- Use rolling-ball algorithm for estimating background intensity
+
 # Contour Detection using OpenCV
 https://learnopencv.com/contour-detection-using-opencv-python-c/  
 Using contour detection, we can detect the borders of objects, and localize them easily in an image. It is often the first step for many interesting applications, such as image-foreground extraction, simple-image segmentation, detection and recognition. 
