@@ -135,6 +135,21 @@ https://scikit-image.org/docs/stable/auto_examples/
 - Evaluating segmentation metrics
 - Use rolling-ball algorithm for estimating background intensity
 
+## Longer examples and demonstrations
+- Face detection using a cascade classifier
+- Interact with 3D images (of kidney tissue)
+- Use pixel graphs to find an object’s geodesic center
+- Visual image comparison
+- Morphological Filtering
+- Estimate anisotropy in a 3D microscopy image
+- Comparing edge-based and region-based segmentation
+- Segment human cells (in mitosis)
+- Thresholding
+- Measure fluorescence intensity at the nuclear envelope
+- Face classification using Haar-like feature descriptor
+- Explore 3D images (of cells)
+- Rank filters
+
 # Contour Detection using OpenCV
 https://learnopencv.com/contour-detection-using-opencv-python-c/  
 Using contour detection, we can detect the borders of objects, and localize them easily in an image. It is often the first step for many interesting applications, such as image-foreground extraction, simple-image segmentation, detection and recognition. 
